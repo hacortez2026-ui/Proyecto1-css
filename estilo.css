@@ -1,3 +1,15 @@
+/*Modificaciones que se harán con CSS, buenas prácticas */
+
 h1 {
     color: green;
+}
+
+h2 {
+    color: greenyellow;
+}
+p {
+    font-weight:bold;
+}
+em {
+    background:#d8d80a; padding: .12em;
 }
